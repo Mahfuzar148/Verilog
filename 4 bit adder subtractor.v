@@ -1,4 +1,4 @@
-/*
+/**
 module four_bit_adder_subtractor(s,cout, a,b, mode);
 input [3:0] a,b;
 input mode;
